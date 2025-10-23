@@ -1,4 +1,4 @@
-module github.com/ravsanalbertovic-sketch/url-shortener/protos
+module github.com/ravsanalbertovic-sketch/url-shortener_protos
 
 go 1.24.0
 
