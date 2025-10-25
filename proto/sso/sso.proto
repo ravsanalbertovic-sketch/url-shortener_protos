@@ -1,5 +1,5 @@
 syntax = "proto3"; // protoc -I proto proto/sso/sso.proto --go_out=./gen/go --go_opt=paths=source_relative --go-grpc_out=./gen/go/ --go-grpc_opt=paths=source_relative
-   // protoc -I proto proto/sso/sso.proto --go_out=C:\Users\Asus\GolangProjects\project-url-shortener\protos\gen\go --go_opt=paths=source_relative --go-grpc_out=C:\Users\Asus\GolangProjects\project-url-shortener\protos\gen\go\ --go-grpc_opt=paths=source_relative
+
 package auth;
 
 option go_package = "tuzov.sso.v1.ssov1";
